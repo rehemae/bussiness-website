@@ -1,0 +1,370 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@500&family=Pacifico&family=Roboto:wght@100&family=Yanone+Kaffeesatz:wght@700&display=swap');
+
+
+body{
+    margin: 0%;
+    padding: 0%;
+    background-color:rgb(241,234,234);
+    
+   
+   
+}
+.container{
+    background-color: rgb(255,255,255);
+    margin-left: 25px;
+    margin-right: 25px;
+    margin-top: 15px;
+    
+   
+}
+.topnavbar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-left: 500px;
+    margin-bottom: 900px;
+}
+.navbar{
+    margin-left: 260px;
+    
+}
+.tittle{
+    margin-left: -180px;
+    margin-top: -90px;
+}
+.help{
+    margin-bottom: -10%;
+}
+.topnavbar-links ul{
+    margin: 0%;
+    padding: 0%;
+    display: flex;
+}
+ .topnavbar-links li {
+    list-style: none;
+    margin-bottom: 20px;
+    margin-left: 1px;
+}
+.topnavbar-links li a{
+    text-decoration: none;
+    padding: 3rem;
+    display: block;
+  
+}
+.heading{
+   
+    font-size: 40px;
+    margin-left: 2%;
+    margin-top: 3%;
+}
+.button{
+    margin-left: 90%;
+    margin-top: -15px;
+    
+}
+.button1{
+    
+    background-color: blue;
+    border-radius: 10px;
+    width: 20px;
+    height: 20px;
+    padding: 3%;
+    
+}
+.twitter{
+    margin-left: 12%;
+    margin-top: -28px;
+  
+    
+}
+.instagram{
+    margin-left: 9%;
+}
+.Icon{
+    margin-top: 50px;
+}
+.tittle2{
+    margin-left: 2%;
+    margin-bottom: 50px;
+    top: 100px;   
+}
+.image{
+    margin-left: 37.5%;
+    margin-top: -270px;
+}
+.contact{
+    margin-left: 6%;  
+}
+
+.contact1{
+        border-radius: 20px;
+        padding: 7px 7px 7px 7px;
+        background-color: aqua;
+        border: none;
+
+}
+.project{
+        margin-left: 10%;
+        margin-top: -4%;
+        border-radius: 20px;
+        padding: 7px 7px 7px 7px;
+        border: none;
+        background-color: rgb(121, 157, 189);
+      
+ }
+
+.experiences{
+    display: flex;
+   
+}
+.experience{
+ 
+  margin-left: 20%;
+  padding: 8px;
+  background-color:rgb(216, 212, 212);
+  width: 20%;
+}
+.members{
+ 
+  margin-left: -1%;
+  padding: 8px;
+  background-color:rgb(216, 212, 212);
+  width: 20%;
+}
+.complete{
+ 
+  margin-left: -1%;
+  padding: 8px;
+  background-color:rgb(216, 212, 212);
+  width: 20%;
+}
+.Icon2{
+    display: flex;
+    background-color: white;
+    width: 90%;
+    margin-left: 5%;
+    
+}
+.container2{
+      background-color:rgb(255,255,255);
+    margin-left: 2%;
+    margin-right: 2%;
+      
+}
+.slack{
+    margin-left: 10%;
+    margin-bottom: -4%;
+}
+.prude{ 
+      margin-left: 30%;
+      margin-bottom: -4%;
+
+}
+  .micro{
+      margin-left: 50%;
+      margin-bottom: -2%;
+     
+  }
+  .zoover{
+      margin-left: 70%;
+      margin-top: -2%;
+   }
+.services{
+    font-size: 20px;
+    color: rgb(128,184,174);
+    margin-left: 25%;  
+}
+.brand{
+    display: flex;
+    margin-left: 40%;
+    margin-bottom: -7%;
+  
+}
+.service3{
+    margin-left: 25%;
+}
+
+.design1{
+    display: flex;
+    margin-top: -10%;
+    margin-right: 25%;
+   
+
+}
+.design{
+  background-color: rgb(245,249,250);
+  border-radius: 3%;
+  width: 50%;
+  padding: 5%;
+  margin-top: 15%;
+
+}
+.development{
+  background-color:rgb(67,160,144);
+  border-radius: 3%;
+  width: 50%;
+  margin-top: 15%;
+  color: aliceblue;
+  padding: 5%;
+}
+.market{
+  background-color: rgb(234,246,254);
+  border-radius: 3%;
+  width: 50%;
+  margin-top: 15%;
+  padding: 5%;
+}
+.services3{
+    margin-top: 10%;
+    margin-left: 20%;
+}
+.dicon{
+    margin-left: 30px;
+    margin-top: 30px;
+}
+.dicon2{
+    margin-left: 30px;
+    margin-top: 30px;
+}
+.dicon3{
+    margin-left: 30px;
+    margin-top: 30px;
+}
+.projects{
+    margin-top: -27%;
+    margin-left: 60%;
+
+}
+.project1{
+    display: flex;
+    margin-left: -5%;
+    margin-top: 10%;
+    
+    
+}
+#work{
+    color: cornflowerblue;
+    margin-top: -1%;
+    margin-left: 40%;
+}
+.top1{
+    display: flex;
+    
+}
+.number1{
+    color: white;
+    background-color: rgb(12, 158, 158);
+    border-radius: 50%;
+    margin-right: 2%;
+    width: 5%;
+    text-align: center;
+}
+.top2{
+    display: flex;
+}
+.number2{
+    color: white;
+    background-color: rgb(58, 9, 173);
+    border-radius: 50%;
+    margin-right: 2%;
+    width: 5%;
+    text-align: center;  
+}
+.top3{
+    display: flex;
+}
+.number3{
+    color: white;
+    background-color: rgb(230, 236, 41);
+    border-radius: 50%;
+    margin-right: 2%;
+    width: 5%;
+    text-align: center;
+}
+.box{
+   
+    background-color: rgb(255,255,255);
+    margin-left: 20px;
+    margin-right: 25px;
+    margin-top: 15px;
+    display: flex;
+}
+.subscribe{
+   text-align: center;
+   font-weight: bolder;
+   margin-left: 25%;
+}
+.email{
+    margin-top: 5%;
+    width: 180%;
+    margin-left: -37%;
+}.btt{
+    margin-left: -150px;
+    color: aliceblue;
+    background-color: blue;
+    border-radius: 20px;
+    height: 35px;
+    width: 100px;
+    margin-top: -90px;
+    border: none;
+   
+}
+.subscribe input{
+    width: 60%;
+    padding: 15px;
+    border-radius: 10px;
+    border: none;
+    font-size: 18px;
+    background-color: aquamarine;
+    margin-bottom: 5%;  
+}
+.woman{
+  margin-left: 30%;
+  margin-top: 5%;
+}
+.get{
+    margin-left: 30%;
+}
+.work{
+    color: rgb(75, 146, 148);
+    margin-left: 30%;
+}
+.name{
+    margin-top: 3% ;
+    margin-left: 30%;
+}
+.fullname{
+    color: rgb(9, 9, 114);
+}
+.message{
+    color: rgb(9, 9, 114);
+    margin-left: 30%;
+  
+}
+.send{
+    margin-top: 9%;
+    border-radius: 15px;
+    height: 35px;
+    width:120px ;
+    background-color: rgb(75, 146, 148);
+    margin-left: 30%;
+    border: none;
+ 
+
+}
+
+.news{
+    background-color: rgb(255,255,255);
+    margin-left: 2%;
+     margin-top: 10px;
+    display: flex;
+    margin-right: 2%;
+   
+}
+
+
+
+
+
+
+
